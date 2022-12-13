@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">myporject</string>
+    <string name="goldfish">goldfish</string>
+    <string name="elephant">elephant</string>
+    <string name="easy">easy</string>
+    <string name="medium">medium</string>
+    <string name="plya">play</string>
+    <string name="hard">hard</string>
+    <string name="name">name</string>
+    <string name="ok">ok</string>
+    <string name="change">Switching Languages</string>
+    <string name="win">You win</string>
+    <string name="wins">Great,you win</string>
+    <string name="cancel">cancel</string>
+    <string name="hint">hint</string>
+    <string name="great">That\'s great</string>
+    <string name="count">Current number of times</string>
+    <string name="input_name">please inout name：</string>
+</resources>

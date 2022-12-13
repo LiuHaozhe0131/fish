@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myporject</string>
+    <string name="goldfish">金鱼</string>
+    <string name="elephant">大象</string>
+    <string name="name">姓名</string>
+    <string name="plya">开始游戏</string>
+    <string name="easy">简单</string>
+    <string name="medium">中等</string>
+    <string name="hard">困难</string>
+    <string name="ok">确定</string>
+    <string name="great">真棒</string>
+    <string name="change">切换语言</string>
+    <string name="win">你赢了</string>
+    <string name="wins">太棒了，你赢了</string>
+    <string name="hint">提示</string>
+    <string name="cancel">取消</string>
+    <string name="input_name">请输入姓名</string>
+    <string name="count">当前次数：</string>
+</resources>
